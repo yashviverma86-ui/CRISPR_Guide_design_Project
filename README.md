@@ -25,7 +25,7 @@ Meaning: High PCSK9 → High LDL-C
 ↑ Aortic aneurysm risk
 
 
-	 Steps for Designing a Guide RNA Against PCSK9
+# Steps for Designing a Guide RNA Against PCSK9
 
 1.	Get your gene: 
 Choose your target gene i.e. PCSK9
