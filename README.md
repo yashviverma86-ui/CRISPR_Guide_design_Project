@@ -45,13 +45,17 @@ Extract the 20 nt spacer. The basic goal in sgRNA design is to select a 20 nt ta
 	Run & Review: Download the Result table with hundred’s of possible guide sequence.
 
 4.	Scoring & Evaluating the Guides:
-•	Identify PAM Sites: 
+•	Identify PAM Sites:
+ 
 •	EFFICIENCY: Doench / CFD Score- >50% or above 70%
+
 •	OFF TARGETS: MMO- 0 or Total off targets under 10
+
 •	GC CONTENT: 40% – 60%
+
 •	SELF COMPLEMENTRITY – 0 or 1
 
-5.	Copy the Guides from Excel and view it in SnapGene Viewer. 
+6.	Copy the Guides from Excel and view it in SnapGene Viewer. 
 	Repeat the same with all 3 Cas enzymes.
 
-6.	OUTPUT: Compile your output of top Guides into a structural report.
+7.	OUTPUT: Compile your output of top Guides into a structural report.
