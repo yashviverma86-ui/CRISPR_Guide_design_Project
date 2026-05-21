@@ -8,6 +8,7 @@ PCSK9 (Proprotein Convertase Subtilisin/Kexin Type 9) is an enzyme encoded by th
 Location: chromosome 1p32.3
 
 Size: 25 kilobases of genomic DNA, and comprises 12 exons that encode a 692-amino-acid protein.
+
 Conservation across species: PCSK9 is highly conserved among mammals, including chimpanzee, monkey, camel, alpaca, rat, and mouse, with an approximate amino acid identity of 99%, 96%, 82%, 81%, 77%, and 77%, respectively.
 
 How it works: The enzymatic activity of PCSK9 is mediated by its catalytic domain, which recognises specific structural features on the LDL receptor. Interestingly, the protein retains its receptor-degrading function even after its catalytic activity is disrupted by autocatalytic cleavage — meaning it is the physical interaction between PCSK9 and the LDL receptor, rather than ongoing proteolytic activity, that drives receptor degradation.
